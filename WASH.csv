@@ -1,0 +1,601 @@
+Type,Region,Residence Type,Service Type,Year,Coverage,Population,Facility type
+income,High income,total,Sanitation,2012,3.16338,37038978.07131,Improved latrine and other
+income,High income,rural,Sanitation,2012,7.33999,17285014.10345,Improved latrine and other
+income,High income,urban,Sanitation,2012,1.8344,17158559.65143,Improved latrine and other
+income,High income,total,Sanitation,2012,13.44265,157395356.05516,Septic tank
+income,High income,rural,Sanitation,2012,33.11531,77983549.58889,Septic tank
+income,High income,urban,Sanitation,2012,7.74518,72446427.17412,Septic tank
+income,High income,total,Sanitation,2012,82.65761,967809663.03964,Sewer
+income,High income,rural,Sanitation,2012,57.11532,134501397.8857,Sewer
+income,High income,urban,Sanitation,2012,90.11413,842904803.83028,Sewer
+income,High income,total,Drinking water,2012,2.0877,24444185.50476,Non-piped improved
+income,High income,rural,Drinking water,2012,5.96939,14057374.48529,Non-piped improved
+income,High income,urban,Drinking water,2012,0.92841,8684094.66973,Non-piped improved
+income,High income,total,Drinking water,2012,97.25369,1138710104.5243,Piped improved
+income,High income,rural,Drinking water,2012,92.33865,217449167.77821,Piped improved
+income,High income,urban,Drinking water,2012,98.67697,922999436.24515,Piped improved
+income,High income,total,Sanitation,2013,3.06076,36049434.38297,Improved latrine and other
+income,High income,rural,Sanitation,2013,7.3612,17288604.00337,Improved latrine and other
+income,High income,urban,Sanitation,2013,1.74713,16474304.5455,Improved latrine and other
+income,High income,total,Sanitation,2013,13.17215,155140739.87364,Septic tank
+income,High income,rural,Sanitation,2013,32.72778,76864839.00911,Septic tank
+income,High income,urban,Sanitation,2013,7.56023,71287914.45634,Septic tank
+income,High income,total,Sanitation,2013,83.07865,978495203.87914,Sewer
+income,High income,rural,Sanitation,2013,57.635,135362247.61576,Sewer
+income,High income,urban,Sanitation,2013,90.40337,852442863.156,Sewer
+income,High income,total,Drinking water,2013,2.04658,24104512.00907,Non-piped improved
+income,High income,rural,Drinking water,2013,5.83484,13703769.63439,Non-piped improved
+income,High income,urban,Drinking water,2013,0.91586,8635982.8749,Non-piped improved
+income,High income,total,Drinking water,2013,97.31329,1146149902.58789,Piped improved
+income,High income,rural,Drinking water,2013,92.50331,217254366.57399,Piped improved
+income,High income,urban,Drinking water,2013,98.70225,930695709.01928,Piped improved
+income,High income,total,Sanitation,2014,2.96586,35125899.13643,Improved latrine and other
+income,High income,rural,Sanitation,2014,7.40707,17344965.4911,Improved latrine and other
+income,High income,urban,Sanitation,2014,1.66253,15796906.6525,Improved latrine and other
+income,High income,total,Sanitation,2014,12.89657,152739187.73556,Septic tank
+income,High income,rural,Sanitation,2014,32.32148,75686437.62383,Septic tank
+income,High income,urban,Sanitation,2014,7.37372,70062966.44363,Septic tank
+income,High income,total,Sanitation,2014,83.49385,988850566.54752,Sewer
+income,High income,rural,Sanitation,2014,58.14795,136163664.6394,Sewer
+income,High income,urban,Sanitation,2014,90.68842,861695751.0642,Sewer
+income,High income,total,Drinking water,2014,1.90046,22507846.09596,Non-piped improved
+income,High income,rural,Drinking water,2014,5.55821,13015537.94974,Non-piped improved
+income,High income,urban,Drinking water,2014,0.90171,8567799.23079,Non-piped improved
+income,High income,total,Drinking water,2014,97.47908,1154483091.29583,Piped improved
+income,High income,rural,Drinking water,2014,92.8145,217341480.09679,Piped improved
+income,High income,urban,Drinking water,2014,98.72964,938101168.01311,Piped improved
+income,High income,total,Sanitation,2015,2.87099,34186883.35574,Improved latrine and other
+income,High income,rural,Sanitation,2015,7.43004,17342520.09984,Improved latrine and other
+income,High income,urban,Sanitation,2015,1.57035,15033895.8011,Improved latrine and other
+income,High income,total,Sanitation,2015,12.61695,150238998.8205,Septic tank
+income,High income,rural,Sanitation,2015,31.90574,74471414.19033,Septic tank
+income,High income,urban,Sanitation,2015,7.18404,68777164.70396,Septic tank
+income,High income,total,Sanitation,2015,83.91301,999211525.89362,Sewer
+income,High income,rural,Sanitation,2015,58.69566,137001979.67944,Sewer
+income,High income,urban,Sanitation,2015,90.98409,871045236.79251,Sewer
+income,High income,total,Drinking water,2015,1.81086,21563237.34149,Non-piped improved
+income,High income,rural,Drinking water,2015,5.26985,12300389.30051,Non-piped improved
+income,High income,urban,Drinking water,2015,0.95061,9100737.4484,Non-piped improved
+income,High income,total,Drinking water,2015,97.59434,1162124808.81413,Piped improved
+income,High income,rural,Drinking water,2015,93.12972,217374763.067,Piped improved
+income,High income,urban,Drinking water,2015,98.70342,944946963.07681,Piped improved
+income,High income,total,Sanitation,2016,2.77454,33217309.11051,Improved latrine and other
+income,High income,rural,Sanitation,2016,7.44693,17322337.33517,Improved latrine and other
+income,High income,urban,Sanitation,2016,1.47835,14260255.7002,Improved latrine and other
+income,High income,total,Sanitation,2016,12.33645,147694292.78208,Septic tank
+income,High income,rural,Sanitation,2016,31.48133,73228905.35916,Septic tank
+income,High income,urban,Sanitation,2016,6.99517,67475995.68806,Septic tank
+income,High income,total,Sanitation,2016,84.33161,1009633951.58208,Sewer
+income,High income,rural,Sanitation,2016,59.25139,137824974.09627,Sewer
+income,High income,urban,Sanitation,2016,91.27722,880467687.28574,Sewer
+income,High income,total,Drinking water,2016,1.77194,21214006.97821,Non-piped improved
+income,High income,rural,Drinking water,2016,5.17359,12034324.33209,Non-piped improved
+income,High income,urban,Drinking water,2016,0.93414,9010772.19972,Non-piped improved
+income,High income,total,Drinking water,2016,97.64833,1169064250.76011,Piped improved
+income,High income,rural,Drinking water,2016,93.25168,216913244.75525,Piped improved
+income,High income,urban,Drinking water,2016,98.72966,952354511.57163,Piped improved
+income,High income,total,Sanitation,2017,2.68611,32328796.99559,Improved latrine and other
+income,High income,rural,Sanitation,2017,7.4894,17356384.41635,Improved latrine and other
+income,High income,urban,Sanitation,2017,1.40103,13615309.54234,Improved latrine and other
+income,High income,total,Sanitation,2017,12.04107,144921004.92045,Septic tank
+income,High income,rural,Sanitation,2017,31.01296,71871275.61425,Septic tank
+income,High income,urban,Sanitation,2017,6.79209,66006205.95035,Septic tank
+income,High income,total,Sanitation,2017,84.7469,1019976507.99118,Sewer
+income,High income,rural,Sanitation,2017,59.77424,138524389.17149,Sewer
+income,High income,urban,Sanitation,2017,91.57006,889887068.65113,Sewer
+income,High income,total,Drinking water,2017,1.74096,20953433.05757,Non-piped improved
+income,High income,rural,Drinking water,2017,5.08795,11791118.0743,Non-piped improved
+income,High income,urban,Drinking water,2017,0.92505,8989732.55874,Non-piped improved
+income,High income,total,Drinking water,2017,97.69324,1175792915.09859,Piped improved
+income,High income,rural,Drinking water,2017,93.35741,216352030.84041,Piped improved
+income,High income,urban,Drinking water,2017,98.74849,959647779.18222,Piped improved
+income,High income,total,Sanitation,2018,2.59006,31331034.51341,Improved latrine and other
+income,High income,rural,Sanitation,2018,7.50183,17312243.82362,Improved latrine and other
+income,High income,urban,Sanitation,2018,1.32441,12964491.94987,Improved latrine and other
+income,High income,total,Sanitation,2018,11.73275,141926866.89799,Septic tank
+income,High income,rural,Sanitation,2018,30.54054,70479519.39467,Septic tank
+income,High income,urban,Sanitation,2018,6.5775,64386505.8307,Septic tank
+income,High income,total,Sanitation,2018,85.16657,1030229584.22246,Sewer
+income,High income,rural,Sanitation,2018,60.26782,139082232.74818,Sewer
+income,High income,urban,Sanitation,2018,91.86892,899296175.76417,Sewer
+income,High income,total,Drinking water,2018,1.7074,20653784.88486,Non-piped improved
+income,High income,rural,Drinking water,2018,4.98821,11511481.44048,Non-piped improved
+income,High income,urban,Drinking water,2018,0.9149,8955878.16997,Non-piped improved
+income,High income,total,Drinking water,2018,97.73725,1182292493.30443,Piped improved
+income,High income,rural,Drinking water,2018,93.4624,215686561.77336,Piped improved
+income,High income,urban,Drinking water,2018,98.76753,966826026.67891,Piped improved
+income,High income,total,Sanitation,2019,2.49022,30266394.19988,Improved latrine and other
+income,High income,rural,Sanitation,2019,7.50472,17236113.40345,Improved latrine and other
+income,High income,urban,Sanitation,2019,1.24968,12318543.68615,Improved latrine and other
+income,High income,total,Sanitation,2019,11.43943,139035874.99283,Septic tank
+income,High income,rural,Sanitation,2019,30.03914,68991014.14223,Septic tank
+income,High income,urban,Sanitation,2019,6.37622,62852849.35412,Septic tank
+income,High income,total,Sanitation,2019,85.57145,1040043493.16794,Sewer
+income,High income,rural,Sanitation,2019,60.80283,139646118.09088,Sewer
+income,High income,urban,Sanitation,2019,92.14752,908334077.69198,Sewer
+income,High income,total,Drinking water,2019,1.28766,15650360.17021,Non-piped improved
+income,High income,rural,Drinking water,2019,3.34898,7691624.90536,Non-piped improved
+income,High income,urban,Drinking water,2019,0.81365,8020497.46963,Non-piped improved
+income,High income,total,Drinking water,2019,98.16644,1193124143.78648,Piped improved
+income,High income,rural,Drinking water,2019,95.10562,218429473.00231,Piped improved
+income,High income,urban,Drinking water,2019,98.87666,974665850.20144,Piped improved
+income,High income,total,Sanitation,2020,2.38951,29118301.40233,Improved latrine and other
+income,High income,rural,Sanitation,2020,7.5136,17137714.74192,Improved latrine and other
+income,High income,urban,Sanitation,2020,1.16056,11495345.25508,Improved latrine and other
+income,High income,total,Sanitation,2020,11.1407,135759264.85615,Septic tank
+income,High income,rural,Sanitation,2020,29.59295,67498356.97793,Septic tank
+income,High income,urban,Sanitation,2020,6.17974,61210270.70196,Septic tank
+income,High income,total,Sanitation,2020,85.97936,1047734163.19929,Sewer
+income,High income,rural,Sanitation,2020,61.26699,139743464.89089,Sewer
+income,High income,urban,Sanitation,2020,92.43414,915558974.228,Sewer
+income,High income,total,Drinking water,2020,1.23425,15040364.13066,Non-piped improved
+income,High income,rural,Drinking water,2020,3.17382,7239140.34366,Non-piped improved
+income,High income,urban,Drinking water,2020,0.79137,7838502.71251,Non-piped improved
+income,High income,total,Drinking water,2020,98.22668,1196978525.11931,Piped improved
+income,High income,rural,Drinking water,2020,95.27557,217313397.33739,Piped improved
+income,High income,urban,Drinking water,2020,98.90575,979660231.30899,Piped improved
+income,High income,total,Sanitation,2021,2.2452,27391184.0138,Improved latrine and other
+income,High income,rural,Sanitation,2021,7.48061,16915120.39479,Improved latrine and other
+income,High income,urban,Sanitation,2021,1.04013,10337554.29527,Improved latrine and other
+income,High income,total,Sanitation,2021,10.89105,132869689.66446,Septic tank
+income,High income,rural,Sanitation,2021,29.19838,66023213.73302,Septic tank
+income,High income,urban,Sanitation,2021,6.02654,59895952.58336,Septic tank
+income,High income,total,Sanitation,2021,86.38398,1053875364.86828,Sewer
+income,High income,rural,Sanitation,2021,61.72881,139580872.25771,Sewer
+income,High income,urban,Sanitation,2021,92.70985,921415315.93703,Sewer
+income,High income,total,Drinking water,2021,1.22936,14998041.07818,Non-piped improved
+income,High income,rural,Drinking water,2021,3.19795,7231180.63653,Non-piped improved
+income,High income,urban,Drinking water,2021,0.78282,7780217.13569,Non-piped improved
+income,High income,total,Drinking water,2021,98.2392,1198507821.38106,Piped improved
+income,High income,rural,Drinking water,2021,95.24973,215378189.70489,Piped improved
+income,High income,urban,Drinking water,2021,98.9212,983148050.48926,Piped improved
+income,Low income,total,Sanitation,2012,25.7979,139309314.85536,Improved latrine and other
+income,Low income,rural,Sanitation,2012,20.72734,77687331.80491,Improved latrine and other
+income,Low income,urban,Sanitation,2012,37.30223,61621983.60189,Improved latrine and other
+income,Low income,total,Sanitation,2012,4.77478,25783923.84948,Septic tank
+income,Low income,rural,Sanitation,2012,2.2314,8363414.09317,Septic tank
+income,Low income,urban,Sanitation,2012,10.54533,17420509.64835,Septic tank
+income,Low income,total,Sanitation,2012,7.99566,43176768.15236,Sewer
+income,Low income,rural,Sanitation,2012,3.00094,11247725.03183,Sewer
+income,Low income,urban,Sanitation,2012,19.32792,31929043.01247,Sewer
+income,Low income,total,Drinking water,2012,32.52431,175632131.89594,Non-piped improved
+income,Low income,rural,Drinking water,2012,36.92044,138380065.00677,Non-piped improved
+income,Low income,urban,Drinking water,2012,22.55015,37252068.21402,Non-piped improved
+income,Low income,total,Drinking water,2012,33.63703,181640854.85241,Piped improved
+income,Low income,rural,Drinking water,2012,18.615,69770168.79376,Piped improved
+income,Low income,urban,Drinking water,2012,67.71976,111870685.92572,Piped improved
+income,Low income,total,Sanitation,2013,26.30518,145687478.0207,Improved latrine and other
+income,Low income,rural,Sanitation,2013,21.25687,81435314.51101,Improved latrine and other
+income,Low income,urban,Sanitation,2013,37.63276,64252162.61842,Improved latrine and other
+income,Low income,total,Sanitation,2013,5.07374,28100192.55768,Septic tank
+income,Low income,rural,Sanitation,2013,2.36109,9045367.87869,Septic tank
+income,Low income,urban,Sanitation,2013,11.16049,19054824.60891,Septic tank
+income,Low income,total,Sanitation,2013,7.73241,42824830.60184,Sewer
+income,Low income,rural,Sanitation,2013,2.87964,11031916.4893,Sewer
+income,Low income,urban,Sanitation,2013,18.62124,31792914.04629,Sewer
+income,Low income,total,Drinking water,2013,33.20866,183921413.57167,Non-piped improved
+income,Low income,rural,Drinking water,2013,37.8205,144890758.15986,Non-piped improved
+income,Low income,urban,Drinking water,2013,22.86042,39030654.1902,Non-piped improved
+income,Low income,total,Drinking water,2013,34.14804,189124042.70298,Piped improved
+income,Low income,rural,Drinking water,2013,19.14783,73355565.85187,Piped improved
+income,Low income,urban,Drinking water,2013,67.80608,115768476.64677,Piped improved
+income,Low income,total,Sanitation,2014,26.83354,152334627.87369,Improved latrine and other
+income,Low income,rural,Sanitation,2014,21.80512,85312759.5005,Improved latrine and other
+income,Low income,urban,Sanitation,2014,37.98321,67021868.34714,Improved latrine and other
+income,Low income,total,Sanitation,2014,5.37813,30531753.50822,Septic tank
+income,Low income,rural,Sanitation,2014,2.48542,9724212.94681,Septic tank
+income,Low income,urban,Sanitation,2014,11.79223,20807540.66244,Septic tank
+income,Low income,total,Sanitation,2014,7.44386,42258992.13635,Sewer
+income,Low income,rural,Sanitation,2014,2.73558,10702987.06153,Sewer
+income,Low income,urban,Sanitation,2014,17.88369,31556005.13008,Sewer
+income,Low income,total,Drinking water,2014,33.87893,192331489.04522,Non-piped improved
+income,Low income,rural,Drinking water,2014,38.71534,151474143.16862,Non-piped improved
+income,Low income,urban,Drinking water,2014,23.15503,40857345.41722,Non-piped improved
+income,Low income,total,Drinking water,2014,34.67101,196828130.42845,Piped improved
+income,Low income,rural,Drinking water,2014,19.67612,76983026.95911,Piped improved
+income,Low income,urban,Drinking water,2014,67.91965,119845103.72179,Piped improved
+income,Low income,total,Sanitation,2015,27.37523,159371196.7054,Improved latrine and other
+income,Low income,rural,Sanitation,2015,22.35237,89216865.99113,Improved latrine and other
+income,Low income,urban,Sanitation,2015,38.32842,70154331.1168,Improved latrine and other
+income,Low income,total,Sanitation,2015,5.63616,32812184.09818,Septic tank
+income,Low income,rural,Sanitation,2015,2.60553,10399657.98014,Septic tank
+income,Low income,urban,Sanitation,2015,12.24496,22412526.22149,Septic tank
+income,Low income,total,Sanitation,2015,7.26094,42271209.64557,Sewer
+income,Low income,rural,Sanitation,2015,2.58365,10312330.94691,Sewer
+income,Low income,urban,Sanitation,2015,17.46055,31958878.43326,Sewer
+income,Low income,total,Drinking water,2015,34.50487,200878038.5823,Non-piped improved
+income,Low income,rural,Drinking water,2015,39.60466,158077369.68783,Non-piped improved
+income,Low income,urban,Drinking water,2015,23.3839,42800670.13393,Non-piped improved
+income,Low income,total,Drinking water,2015,35.28355,205411310.69201,Piped improved
+income,Low income,rural,Drinking water,2015,20.21343,80679521.00565,Piped improved
+income,Low income,urban,Drinking water,2015,68.1465,124731789.38069,Piped improved
+income,Low income,total,Sanitation,2016,27.98935,167287739.94636,Improved latrine and other
+income,Low income,rural,Sanitation,2016,23.01656,93767536.16397,Improved latrine and other
+income,Low income,urban,Sanitation,2016,38.63549,73520202.43931,Improved latrine and other
+income,Low income,total,Sanitation,2016,5.86874,35076472.00261,Septic tank
+income,Low income,rural,Sanitation,2016,2.63467,10733408.60052,Septic tank
+income,Low income,urban,Sanitation,2016,12.79249,24343063.01345,Septic tank
+income,Low income,total,Sanitation,2016,7.09692,42417119.92127,Sewer
+income,Low income,rural,Sanitation,2016,2.45513,10002003.34004,Sewer
+income,Low income,urban,Sanitation,2016,17.03442,32415116.24716,Sewer
+income,Low income,total,Drinking water,2016,35.09578,209761694.82517,Non-piped improved
+income,Low income,rural,Drinking water,2016,40.47711,164900356.03438,Non-piped improved
+income,Low income,urban,Drinking water,2016,23.57501,44861337.73367,Non-piped improved
+income,Low income,total,Drinking water,2016,35.9652,214958059.45706,Piped improved
+income,Low income,rural,Drinking water,2016,20.79974,84736403.76137,Piped improved
+income,Low income,urban,Drinking water,2016,68.43259,130221653.76912,Piped improved
+income,Low income,total,Sanitation,2017,28.65384,175919341.24573,Improved latrine and other
+income,Low income,rural,Sanitation,2017,23.7078,98602859.74502,Improved latrine and other
+income,Low income,urban,Sanitation,2017,39.0116,77257733.4485,Improved latrine and other
+income,Low income,total,Sanitation,2017,6.07933,37323854.89009,Septic tank
+income,Low income,rural,Sanitation,2017,2.66202,11071587.70502,Septic tank
+income,Low income,urban,Sanitation,2017,13.27164,26282866.1878,Septic tank
+income,Low income,total,Sanitation,2017,6.96808,42780332.16992,Sewer
+income,Low income,rural,Sanitation,2017,2.35095,9777827.64098,Sewer
+income,Low income,urban,Sanitation,2017,16.67896,33030653.6264,Sewer
+income,Low income,total,Drinking water,2017,35.77483,219638418.83927,Non-piped improved
+income,Low income,rural,Drinking water,2017,41.48779,172551475.06834,Non-piped improved
+income,Low income,urban,Drinking water,2017,23.70292,46940746.39578,Non-piped improved
+income,Low income,total,Drinking water,2017,36.59739,224688544.76863,Piped improved
+income,Low income,rural,Drinking water,2017,21.31649,88657218.67702,Piped improved
+income,Low income,urban,Drinking water,2017,68.76338,136177523.57331,Piped improved
+income,Low income,total,Sanitation,2018,29.18264,184103287.04987,Improved latrine and other
+income,Low income,rural,Sanitation,2018,24.29938,103186835.79042,Improved latrine and other
+income,Low income,urban,Sanitation,2018,39.20814,80854181.43698,Improved latrine and other
+income,Low income,total,Sanitation,2018,6.29768,39729922.88114,Septic tank
+income,Low income,rural,Sanitation,2018,2.69345,11437662.75706,Septic tank
+income,Low income,urban,Sanitation,2018,13.73533,28324702.57793,Septic tank
+income,Low income,total,Sanitation,2018,6.87856,43394462.47554,Sewer
+income,Low income,rural,Sanitation,2018,2.27193,9647704.69495,Sewer
+income,Low income,urban,Sanitation,2018,16.37908,33776585.10096,Sewer
+income,Low income,total,Drinking water,2018,36.33499,229225046.1032,Non-piped improved
+income,Low income,rural,Drinking water,2018,42.35472,179858459.79348,Non-piped improved
+income,Low income,urban,Drinking water,2018,23.86633,49216626.42714,Non-piped improved
+income,Low income,total,Drinking water,2018,37.34818,235616907.83881,Piped improved
+income,Low income,rural,Drinking water,2018,21.96237,93262741.37223,Piped improved
+income,Low income,urban,Drinking water,2018,69.10368,142504126.3142,Piped improved
+income,Low income,total,Sanitation,2019,29.68816,192603563.91125,Improved latrine and other
+income,Low income,rural,Sanitation,2019,24.87875,107922660.61484,Improved latrine and other
+income,Low income,urban,Sanitation,2019,39.36361,84616348.06392,Improved latrine and other
+income,Low income,total,Sanitation,2019,6.51758,42283182.8323,Septic tank
+income,Low income,rural,Sanitation,2019,2.72841,11835707.65952,Septic tank
+income,Low income,urban,Sanitation,2019,14.18044,30482387.27851,Septic tank
+income,Low income,total,Sanitation,2019,6.84026,44376555.15526,Sewer
+income,Low income,rural,Sanitation,2019,2.22554,9654261.77957,Sewer
+income,Low income,urban,Sanitation,2019,16.16664,34751935.18979,Sewer
+income,Low income,total,Drinking water,2019,36.89505,239358644.20865,Non-piped improved
+income,Low income,rural,Drinking water,2019,43.2338,187545898.53671,Non-piped improved
+income,Low income,urban,Drinking water,2019,24.03169,51658723.96383,Non-piped improved
+income,Low income,total,Drinking water,2019,38.11351,247263455.22852,Piped improved
+income,Low income,rural,Drinking water,2019,22.62068,98127307.18665,Piped improved
+income,Low income,urban,Drinking water,2019,69.44994,149290166.82101,Piped improved
+income,Low income,total,Sanitation,2020,30.11453,200880090.03615,Improved latrine and other
+income,Low income,rural,Sanitation,2020,25.36791,112385141.77263,Improved latrine and other
+income,Low income,urban,Sanitation,2020,39.47121,88428405.90655,Improved latrine and other
+income,Low income,total,Sanitation,2020,6.71171,44770712.54814,Septic tank
+income,Low income,rural,Sanitation,2020,2.7352,12117514.00685,Septic tank
+income,Low income,urban,Sanitation,2020,14.59165,32690072.23301,Septic tank
+income,Low income,total,Sanitation,2020,6.85525,45728222.83049,Sewer
+income,Low income,rural,Sanitation,2020,2.26185,10020467.28443,Sewer
+income,Low income,urban,Sanitation,2020,15.95188,35737425.19306,Sewer
+income,Low income,total,Drinking water,2020,37.39254,249428296.10327,Non-piped improved
+income,Low income,rural,Drinking water,2020,44.07118,195244582.82236,Non-piped improved
+income,Low income,urban,Drinking water,2020,24.11492,54025303.38405,Non-piped improved
+income,Low income,total,Drinking water,2020,38.90882,259542702.47764,Piped improved
+income,Low income,rural,Drinking water,2020,23.28791,103170331.70345,Piped improved
+income,Low income,urban,Drinking water,2020,69.86962,156530782.30731,Piped improved
+income,Low income,total,Sanitation,2021,28.55792,195693157.61792,Improved latrine and other
+income,Low income,rural,Sanitation,2021,24.82055,112179759.86921,Improved latrine and other
+income,Low income,urban,Sanitation,2021,36.19286,84433186.59128,Improved latrine and other
+income,Low income,total,Sanitation,2021,7.48996,51324959.92091,Septic tank
+income,Low income,rural,Sanitation,2021,4.91738,22224754.46998,Septic tank
+income,Low income,urban,Sanitation,2021,13.80524,32205815.20213,Septic tank
+income,Low income,total,Sanitation,2021,11.67951,80033818.43728,Sewer
+income,Low income,rural,Sanitation,2021,5.37583,24296787.75418,Sewer
+income,Low income,urban,Sanitation,2021,22.16655,51711634.4389,Sewer
+income,Low income,total,Drinking water,2021,37.92042,259849661.0199,Non-piped improved
+income,Low income,rural,Drinking water,2021,44.92277,203034403.36886,Non-piped improved
+income,Low income,urban,Drinking water,2021,24.28439,56652281.60067,Non-piped improved
+income,Low income,total,Drinking water,2021,39.65983,271768996.83138,Piped improved
+income,Low income,rural,Drinking water,2021,23.93079,108158343.97824,Piped improved
+income,Low income,urban,Drinking water,2021,70.20269,163773631.9364,Piped improved
+income,Lower middle income,total,Sanitation,2012,26.9807,747160748.06849,Improved latrine and other
+income,Lower middle income,rural,Sanitation,2012,29.79227,514556090.0253,Improved latrine and other
+income,Lower middle income,urban,Sanitation,2012,22.32086,232604648.23098,Improved latrine and other
+income,Lower middle income,total,Sanitation,2012,24.30982,673197651.29722,Septic tank
+income,Lower middle income,rural,Sanitation,2012,20.11604,347433391.63971,Septic tank
+income,Lower middle income,urban,Sanitation,2012,31.26051,325764255.44811,Septic tank
+income,Lower middle income,total,Sanitation,2012,14.30017,396006359.32149,Sewer
+income,Lower middle income,rural,Sanitation,2012,3.10387,53608372.90832,Sewer
+income,Lower middle income,urban,Sanitation,2012,32.85669,342397991.47024,Sewer
+income,Lower middle income,total,Drinking water,2012,44.46008,1231207003.69913,Non-piped improved
+income,Lower middle income,rural,Drinking water,2012,54.18627,935876194.48307,Non-piped improved
+income,Lower middle income,urban,Drinking water,2012,28.3401,295330790.64507,Non-piped improved
+income,Lower middle income,total,Drinking water,2012,44.20298,1224087354.86064,Piped improved
+income,Lower middle income,rural,Drinking water,2012,30.0809,519541198.98625,Piped improved
+income,Lower middle income,urban,Drinking water,2012,67.60862,704546155.75717,Piped improved
+income,Lower middle income,total,Sanitation,2013,27.97888,787177388.43694,Improved latrine and other
+income,Lower middle income,rural,Sanitation,2013,31.4967,548766239.55151,Improved latrine and other
+income,Lower middle income,urban,Sanitation,2013,22.25703,238411152.12558,Improved latrine and other
+income,Lower middle income,total,Sanitation,2013,25.07027,705344538.99477,Septic tank
+income,Lower middle income,rural,Sanitation,2013,20.85466,363350188.47525,Septic tank
+income,Lower middle income,urban,Sanitation,2013,31.92711,341994350.09193,Septic tank
+income,Lower middle income,total,Sanitation,2013,14.62421,411447628.90116,Sewer
+income,Lower middle income,rural,Sanitation,2013,3.2414,56474886.54356,Sewer
+income,Lower middle income,urban,Sanitation,2013,33.13872,354972737.48385,Sewer
+income,Lower middle income,total,Drinking water,2013,44.83147,1261319738.92845,Non-piped improved
+income,Lower middle income,rural,Drinking water,2013,54.64503,952078994.94849,Non-piped improved
+income,Lower middle income,urban,Drinking water,2013,28.86938,309240750.14623,Non-piped improved
+income,Lower middle income,total,Drinking water,2013,44.37995,1248616578.71027,Piped improved
+income,Lower middle income,rural,Drinking water,2013,30.32465,528345668.21864,Piped improved
+income,Lower middle income,urban,Drinking water,2013,67.24137,720270905.01069,Piped improved
+income,Lower middle income,total,Sanitation,2014,28.95846,827695600.14919,Improved latrine and other
+income,Lower middle income,rural,Sanitation,2014,33.20169,583270289.41149,Improved latrine and other
+income,Lower middle income,urban,Sanitation,2014,22.19086,244425315.66189,Improved latrine and other
+income,Lower middle income,total,Sanitation,2014,25.82724,738198524.52378,Septic tank
+income,Lower middle income,rural,Sanitation,2014,21.58622,379215745.37282,Septic tank
+income,Lower middle income,urban,Sanitation,2014,32.59129,358982783.36817,Septic tank
+income,Lower middle income,total,Sanitation,2014,14.96449,427717521.50129,Sewer
+income,Lower middle income,rural,Sanitation,2014,3.38319,59434071.5896,Sewer
+income,Lower middle income,urban,Sanitation,2014,33.43568,368283450.42159,Sewer
+income,Lower middle income,total,Drinking water,2014,45.18546,1291498493.80009,Non-piped improved
+income,Lower middle income,rural,Drinking water,2014,55.09524,967885024.69622,Non-piped improved
+income,Lower middle income,urban,Drinking water,2014,29.38019,323613479.95789,Non-piped improved
+income,Lower middle income,total,Drinking water,2014,44.57333,1274002448.41941,Piped improved
+income,Lower middle income,rural,Drinking water,2014,30.57674,537156579.09558,Piped improved
+income,Lower middle income,urban,Drinking water,2014,66.89669,736845876.64141,Piped improved
+income,Lower middle income,total,Sanitation,2015,29.91263,868158854.69374,Improved latrine and other
+income,Lower middle income,rural,Sanitation,2015,34.89721,617827759.10287,Improved latrine and other
+income,Lower middle income,urban,Sanitation,2015,22.11612,250331083.33748,Improved latrine and other
+income,Lower middle income,total,Sanitation,2015,26.5832,771528321.59445,Septic tank
+income,Lower middle income,rural,Sanitation,2015,22.31156,395008601.30981,Septic tank
+income,Lower middle income,urban,Sanitation,2015,33.26457,376519712.32215,Septic tank
+income,Lower middle income,total,Sanitation,2015,15.31078,444367225.33948,Sewer
+income,Lower middle income,rural,Sanitation,2015,3.5333,62554358.3404,Sewer
+income,Lower middle income,urban,Sanitation,2015,33.73221,381812864.36295,Sewer
+income,Lower middle income,total,Drinking water,2015,45.53756,1321643686.64159,Non-piped improved
+income,Lower middle income,rural,Drinking water,2015,55.54021,983295794.69428,Non-piped improved
+income,Lower middle income,urban,Drinking water,2015,29.89218,338347874.43471,Non-piped improved
+income,Lower middle income,total,Drinking water,2015,44.763,1299163519.40588,Piped improved
+income,Lower middle income,rural,Drinking water,2015,30.83244,545864089.15074,Piped improved
+income,Lower middle income,urban,Drinking water,2015,66.55211,753299417.683,Piped improved
+income,Lower middle income,total,Sanitation,2016,30.84835,908796118.07041,Improved latrine and other
+income,Lower middle income,rural,Sanitation,2016,36.58723,652611668.32561,Improved latrine and other
+income,Lower middle income,urban,Sanitation,2016,22.0412,256184442.24896,Improved latrine and other
+income,Lower middle income,total,Sanitation,2016,27.3434,805540059.93445,Septic tank
+income,Lower middle income,rural,Sanitation,2016,23.03123,410811453.86443,Septic tank
+income,Lower middle income,urban,Sanitation,2016,33.96105,394728606.6737,Septic tank
+income,Lower middle income,total,Sanitation,2016,15.64452,460889607.98474,Sewer
+income,Lower middle income,rural,Sanitation,2016,3.6829,65692436.02234,Sewer
+income,Lower middle income,urban,Sanitation,2016,34.00136,395197176.03988,Sewer
+income,Lower middle income,total,Drinking water,2016,45.90139,1352260779.40291,Non-piped improved
+income,Lower middle income,rural,Drinking water,2016,55.9894,998690968.5455,Non-piped improved
+income,Lower middle income,urban,Drinking water,2016,30.41989,353569799.57061,Non-piped improved
+income,Lower middle income,total,Drinking water,2016,44.93461,1323779307.06201,Piped improved
+income,Lower middle income,rural,Drinking water,2016,31.08315,554434721.1801,Piped improved
+income,Lower middle income,urban,Drinking water,2016,66.19168,769344589.2259,Piped improved
+income,Lower middle income,total,Sanitation,2017,31.7142,948089366.38062,Improved latrine and other
+income,Lower middle income,rural,Sanitation,2017,38.19155,686101103.67936,Improved latrine and other
+income,Lower middle income,urban,Sanitation,2017,21.96036,261988254.5436,Improved latrine and other
+income,Lower middle income,total,Sanitation,2017,28.10409,840165883.39375,Septic tank
+income,Lower middle income,rural,Sanitation,2017,23.74309,426538322.9048,Septic tank
+income,Lower middle income,urban,Sanitation,2017,34.67106,413627550.86442,Septic tank
+income,Lower middle income,total,Sanitation,2017,15.97548,477583689.38882,Sewer
+income,Lower middle income,rural,Sanitation,2017,3.83385,68874090.15271,Sewer
+income,Lower middle income,urban,Sanitation,2017,34.25883,408709593.50407,Sewer
+income,Lower middle income,total,Drinking water,2017,46.27695,1383439723.55948,Non-piped improved
+income,Lower middle income,rural,Drinking water,2017,56.44559,1014029989.41947,Non-piped improved
+income,Lower middle income,urban,Drinking water,2017,30.96463,369409721.28766,Non-piped improved
+income,Lower middle income,total,Drinking water,2017,45.08982,1347950646.6161,Piped improved
+income,Lower middle income,rural,Drinking water,2017,31.32721,562784982.39428,Piped improved
+income,Lower middle income,urban,Drinking water,2017,65.8141,785165648.66134,Piped improved
+income,Lower middle income,total,Sanitation,2018,32.51631,985986379.36892,Improved latrine and other
+income,Lower middle income,rural,Sanitation,2018,39.7141,718098671.60143,Improved latrine and other
+income,Lower middle income,urban,Sanitation,2018,21.88425,267887712.62593,Improved latrine and other
+income,Lower middle income,total,Sanitation,2018,28.85513,874968995.57968,Septic tank
+income,Lower middle income,rural,Sanitation,2018,24.4521,442135730.01407,Septic tank
+income,Lower middle income,urban,Sanitation,2018,35.35896,432833269.46245,Septic tank
+income,Lower middle income,total,Sanitation,2018,16.31278,494649643.29292,Sewer
+income,Lower middle income,rural,Sanitation,2018,3.98727,72096672.86949,Sewer
+income,Lower middle income,urban,Sanitation,2018,34.51914,422552971.37191,Sewer
+income,Lower middle income,total,Drinking water,2018,46.65361,1414669127.019,Non-piped improved
+income,Lower middle income,rural,Drinking water,2018,56.90415,1028924032.37582,Non-piped improved
+income,Lower middle income,urban,Drinking water,2018,31.51224,385745103.07864,Non-piped improved
+income,Lower middle income,total,Drinking water,2018,45.23975,1371796995.41634,Piped improved
+income,Lower middle income,rural,Drinking water,2018,31.56755,570795038.64221,Piped improved
+income,Lower middle income,urban,Drinking water,2018,65.43535,801001962.40425,Piped improved
+income,Lower middle income,total,Sanitation,2019,33.30416,1023852330.08622,Improved latrine and other
+income,Lower middle income,rural,Sanitation,2019,41.21703,749629067.18048,Improved latrine and other
+income,Lower middle income,urban,Sanitation,2019,21.84156,274223262.1936,Improved latrine and other
+income,Lower middle income,total,Sanitation,2019,29.57245,909130349.91283,Septic tank
+income,Lower middle income,rural,Sanitation,2019,25.14647,457347903.16537,Septic tank
+income,Lower middle income,urban,Sanitation,2019,35.98394,451782439.35516,Septic tank
+income,Lower middle income,total,Sanitation,2019,16.65446,511999393.43103,Sewer
+income,Lower middle income,rural,Sanitation,2019,4.14217,75335152.52919,Sewer
+income,Lower middle income,urban,Sanitation,2019,34.77979,436664236.6098,Sewer
+income,Lower middle income,total,Drinking water,2019,47.05416,1446561212.20538,Non-piped improved
+income,Lower middle income,rural,Drinking water,2019,57.38028,1043595827.88265,Non-piped improved
+income,Lower middle income,urban,Drinking water,2019,32.09572,402965378.98193,Non-piped improved
+income,Lower middle income,total,Drinking water,2019,45.3647,1394623215.22462,Piped improved
+income,Lower middle income,rural,Drinking water,2019,31.79071,578189063.2684,Piped improved
+income,Lower middle income,urban,Drinking water,2019,65.02802,816434141.981,Piped improved
+income,Lower middle income,total,Sanitation,2020,34.06613,1061479865.43044,Improved latrine and other
+income,Lower middle income,rural,Sanitation,2020,42.68613,780542942.91021,Improved latrine and other
+income,Lower middle income,urban,Sanitation,2020,21.82238,280936021.68433,Improved latrine and other
+income,Lower middle income,total,Sanitation,2020,30.26702,943102007.80359,Septic tank
+income,Lower middle income,rural,Sanitation,2020,25.82749,472272006.70284,Septic tank
+income,Lower middle income,urban,Sanitation,2020,36.57287,470830241.55432,Septic tank
+income,Lower middle income,total,Sanitation,2020,17.00182,529766471.19269,Sewer
+income,Lower middle income,rural,Sanitation,2020,4.29946,78618355.14386,Sewer
+income,Lower middle income,urban,Sanitation,2020,35.04407,451148756.12814,Sewer
+income,Lower middle income,total,Drinking water,2020,47.45947,1478808178.08017,Non-piped improved
+income,Lower middle income,rural,Drinking water,2020,57.86964,1058182983.27849,Non-piped improved
+income,Lower middle income,urban,Drinking water,2020,32.67296,420623669.4594,Non-piped improved
+income,Lower middle income,total,Drinking water,2020,45.46676,1416716663.49129,Piped improved
+income,Lower middle income,rural,Drinking water,2020,31.97813,584740358.56902,Piped improved
+income,Lower middle income,urban,Drinking water,2020,64.62588,831977805.97662,Piped improved
+income,Lower middle income,total,Sanitation,2021,34.65705,1093675522.55802,Improved latrine and other
+income,Lower middle income,rural,Sanitation,2021,44.01925,808442970.18772,Improved latrine and other
+income,Lower middle income,urban,Sanitation,2021,21.64105,285476282.58998,Improved latrine and other
+income,Lower middle income,total,Sanitation,2021,31.04044,979546021.97112,Septic tank
+income,Lower middle income,rural,Sanitation,2021,26.63227,489119488.38768,Septic tank
+income,Lower middle income,urban,Sanitation,2021,37.2036,490768364.47183,Septic tank
+income,Lower middle income,total,Sanitation,2021,17.38091,548490902.25858,Sewer
+income,Lower middle income,rural,Sanitation,2021,4.41709,81122805.32469,Sewer
+income,Lower middle income,urban,Sanitation,2021,35.38531,466782530.26193,Sewer
+income,Lower middle income,total,Drinking water,2021,47.83402,1509502366.61043,Non-piped improved
+income,Lower middle income,rural,Drinking water,2021,58.31838,1071056055.50489,Non-piped improved
+income,Lower middle income,urban,Drinking water,2021,33.24659,438569828.40365,Non-piped improved
+income,Lower middle income,total,Drinking water,2021,45.62027,1439642981.20506,Piped improved
+income,Lower middle income,rural,Drinking water,2021,32.24474,592196204.25903,Piped improved
+income,Lower middle income,urban,Drinking water,2021,64.2329,847323254.51779,Piped improved
+income,Upper middle income,total,Sanitation,2012,17.66527,467672601.38278,Improved latrine and other
+income,Upper middle income,rural,Sanitation,2012,34.55938,368519309.07752,Improved latrine and other
+income,Upper middle income,urban,Sanitation,2012,6.57944,104025909.70656,Improved latrine and other
+income,Upper middle income,total,Sanitation,2012,18.42238,487716272.28398,Septic tank
+income,Upper middle income,rural,Sanitation,2012,22.33578,238174573.61556,Septic tank
+income,Upper middle income,urban,Sanitation,2012,16.76026,264992346.93833,Septic tank
+income,Upper middle income,total,Sanitation,2012,49.08545,1299494266.5313,Sewer
+income,Upper middle income,rural,Sanitation,2012,16.34509,174293685.79196,Sewer
+income,Upper middle income,urban,Sanitation,2012,69.97895,1106420151.26483,Sewer
+income,Upper middle income,total,Drinking water,2012,20.03316,530360306.24651,Non-piped improved
+income,Upper middle income,rural,Drinking water,2012,34.15723,364231033.12021,Non-piped improved
+income,Upper middle income,urban,Drinking water,2012,10.53031,166492153.67963,Non-piped improved
+income,Upper middle income,total,Drinking water,2012,72.71099,1924959633.29588,Piped improved
+income,Upper middle income,rural,Drinking water,2012,50.4654,538131002.17121,Piped improved
+income,Upper middle income,urban,Drinking water,2012,87.79755,1388145730.10557,Piped improved
+income,Upper middle income,total,Sanitation,2013,17.32931,462852502.38308,Improved latrine and other
+income,Upper middle income,rural,Sanitation,2013,34.37832,361949957.96166,Improved latrine and other
+income,Upper middle income,urban,Sanitation,2013,6.53836,105795837.29536,Improved latrine and other
+income,Upper middle income,total,Sanitation,2013,19.08368,509710367.02882,Septic tank
+income,Upper middle income,rural,Sanitation,2013,23.64795,248975912.36185,Septic tank
+income,Upper middle income,urban,Sanitation,2013,17.10255,276732857.27684,Septic tank
+income,Upper middle income,total,Sanitation,2013,50.01799,1335941850.70428,Sewer
+income,Upper middle income,rural,Sanitation,2013,17.18266,180906563.55116,Sewer
+income,Upper middle income,urban,Sanitation,2013,70.18842,1135704262.44645,Sewer
+income,Upper middle income,total,Drinking water,2013,19.53191,521682226.73217,Non-piped improved
+income,Upper middle income,rural,Drinking water,2013,33.59516,353704551.95914,Non-piped improved
+income,Upper middle income,urban,Drinking water,2013,10.4031,168330363.14243,Non-piped improved
+income,Upper middle income,total,Drinking water,2013,73.8365,1972116016.28449,Piped improved
+income,Upper middle income,rural,Drinking water,2013,52.1745,549315884.85803,Piped improved
+income,Upper middle income,urban,Drinking water,2013,88.01382,1424133383.64779,Piped improved
+income,Upper middle income,total,Sanitation,2014,16.99774,457888145.6586,Improved latrine and other
+income,Upper middle income,rural,Sanitation,2014,34.19986,355251602.10332,Improved latrine and other
+income,Upper middle income,urban,Sanitation,2014,6.49835,107551960.16769,Improved latrine and other
+income,Upper middle income,total,Sanitation,2014,19.72619,531387700.19853,Septic tank
+income,Upper middle income,rural,Sanitation,2014,24.95681,259239257.20689,Septic tank
+income,Upper middle income,urban,Sanitation,2014,17.44288,288691267.12951,Septic tank
+income,Upper middle income,total,Sanitation,2014,50.93951,1372217900.33128,Sewer
+income,Upper middle income,rural,Sanitation,2014,18.01429,187123796.01595,Sewer
+income,Upper middle income,urban,Sanitation,2014,70.40166,1165194399.23756,Sewer
+income,Upper middle income,total,Drinking water,2014,19.0383,512857272.42849,Non-piped improved
+income,Upper middle income,rural,Drinking water,2014,33.03735,343176070.85412,Non-piped improved
+income,Upper middle income,urban,Drinking water,2014,10.27268,170019681.42404,Non-piped improved
+income,Upper middle income,total,Drinking water,2014,74.93501,2018613063.49873,Piped improved
+income,Upper middle income,rural,Drinking water,2014,53.87712,559649558.12959,Piped improved
+income,Upper middle income,urban,Drinking water,2014,88.23184,1460295741.80137,Piped improved
+income,Upper middle income,total,Sanitation,2015,16.6736,452862909.89619,Improved latrine and other
+income,Upper middle income,rural,Sanitation,2015,34.029,348496601.04418,Improved latrine and other
+income,Upper middle income,urban,Sanitation,2015,6.46064,109309564.70302,Improved latrine and other
+income,Upper middle income,total,Sanitation,2015,20.34945,552700853.56832,Septic tank
+income,Upper middle income,rural,Sanitation,2015,26.25845,268917139.87034,Septic tank
+income,Upper middle income,urban,Sanitation,2015,17.7827,300870997.85818,Septic tank
+income,Upper middle income,total,Sanitation,2015,51.84503,1408135683.25577,Sewer
+income,Upper middle income,rural,Sanitation,2015,18.83711,192913979.3265,Sewer
+income,Upper middle income,urban,Sanitation,2015,70.61484,1194754458.54794,Sewer
+income,Upper middle income,total,Drinking water,2015,18.55366,503926214.08807,Non-piped improved
+income,Upper middle income,rural,Drinking water,2015,32.48577,332692163.69027,Non-piped improved
+income,Upper middle income,urban,Drinking water,2015,10.13992,171560428.51745,Non-piped improved
+income,Upper middle income,total,Drinking water,2015,76.00424,2064311281.66195,Piped improved
+income,Upper middle income,rural,Drinking water,2015,55.56956,569097023.77942,Piped improved
+income,Upper middle income,urban,Drinking water,2015,88.45225,1496551263.8456,Piped improved
+income,Upper middle income,total,Sanitation,2016,16.34652,447409714.21737,Improved latrine and other
+income,Upper middle income,rural,Sanitation,2016,33.84097,341379149.39936,Improved latrine and other
+income,Upper middle income,urban,Sanitation,2016,6.42312,111008157.41213,Improved latrine and other
+income,Upper middle income,total,Sanitation,2016,20.96184,573732433.44581,Septic tank
+income,Upper middle income,rural,Sanitation,2016,27.56408,278059421.99046,Septic tank
+income,Upper middle income,urban,Sanitation,2016,18.12851,313307573.2137,Septic tank
+income,Upper middle income,total,Sanitation,2016,52.73132,1443273822.90588,Sewer
+income,Upper middle income,rural,Sanitation,2016,19.65315,198255969.63826,Sewer
+income,Upper middle income,urban,Sanitation,2016,70.8217,1223982047.67501,Sewer
+income,Upper middle income,total,Drinking water,2016,18.07417,494696006.35381,Non-piped improved
+income,Upper middle income,rural,Drinking water,2016,31.92494,322050740.67483,Non-piped improved
+income,Upper middle income,urban,Drinking water,2016,10.00786,172961690.70804,Non-piped improved
+income,Upper middle income,total,Drinking water,2016,77.04101,2108637916.62342,Piped improved
+income,Upper middle income,rural,Drinking water,2016,57.2489,577512409.07948,Piped improved
+income,Upper middle income,urban,Drinking water,2016,88.67159,1532474288.23833,Piped improved
+income,Upper middle income,total,Sanitation,2017,15.92332,439081915.80177,Improved latrine and other
+income,Upper middle income,rural,Sanitation,2017,33.5842,333543129.53029,Improved latrine and other
+income,Upper middle income,urban,Sanitation,2017,6.38899,112722377.68048,Improved latrine and other
+income,Upper middle income,total,Sanitation,2017,21.42462,590778738.23386,Septic tank
+income,Upper middle income,rural,Sanitation,2017,28.861,286634447.87641,Septic tank
+income,Upper middle income,urban,Sanitation,2017,18.4802,326050096.28484,Septic tank
+income,Upper middle income,total,Sanitation,2017,53.82282,1484151636.69281,Sewer
+income,Upper middle income,rural,Sanitation,2017,20.49948,203591565.67762,Sewer
+income,Upper middle income,urban,Sanitation,2017,71.0216,1253049389.09394,Sewer
+income,Upper middle income,total,Drinking water,2017,17.66295,487051681.9257,Non-piped improved
+income,Upper middle income,rural,Drinking water,2017,31.42477,312096642.1469,Non-piped improved
+income,Upper middle income,urban,Drinking water,2017,9.87194,174172753.49892,Non-piped improved
+income,Upper middle income,total,Drinking water,2017,77.99556,2150709340.31221,Piped improved
+income,Upper middle income,rural,Drinking water,2017,58.8854,584823195.65379,Piped improved
+income,Upper middle income,urban,Drinking water,2017,88.8911,1568324856.26284,Piped improved
+income,Upper middle income,total,Sanitation,2018,15.59044,432842536.82507,Improved latrine and other
+income,Upper middle income,rural,Sanitation,2018,33.32985,325653944.68451,Improved latrine and other
+income,Upper middle income,urban,Sanitation,2018,6.33875,114051177.48976,Improved latrine and other
+income,Upper middle income,total,Sanitation,2018,22.02045,611361177.45717,Septic tank
+income,Upper middle income,rural,Sanitation,2018,30.17268,294806354.83635,Septic tank
+income,Upper middle income,urban,Sanitation,2018,18.85093,339179106.52285,Septic tank
+income,Upper middle income,total,Sanitation,2018,54.64634,1517164915.52254,Sewer
+income,Upper middle income,rural,Sanitation,2018,21.28373,207955626.24467,Sewer
+income,Upper middle income,urban,Sanitation,2018,71.21222,1281299983.50647,Sewer
+income,Upper middle income,total,Drinking water,2018,17.21761,478018217.34337,Non-piped improved
+income,Upper middle income,rural,Drinking water,2018,30.90292,301941274.8295,Non-piped improved
+income,Upper middle income,urban,Drinking water,2018,9.73625,175181393.07699,Non-piped improved
+income,Upper middle income,total,Drinking water,2018,78.9593,2192173654.18214,Piped improved
+income,Upper middle income,rural,Drinking water,2018,60.5184,591303492.61694,Piped improved
+income,Upper middle income,urban,Drinking water,2018,89.1145,1603410299.52023,Piped improved
+income,Upper middle income,total,Sanitation,2019,15.29968,427279188.59387,Improved latrine and other
+income,Upper middle income,rural,Sanitation,2019,33.1433,318289006.67307,Improved latrine and other
+income,Upper middle income,urban,Sanitation,2019,6.30783,115584047.70631,Improved latrine and other
+income,Upper middle income,total,Sanitation,2019,22.55685,629952540.5353,Septic tank
+income,Upper middle income,rural,Sanitation,2019,31.41941,301733747.80864,Septic tank
+income,Upper middle income,urban,Sanitation,2019,19.21317,352060422.36805,Septic tank
+income,Upper middle income,total,Sanitation,2019,55.48917,1549664457.56037,Sewer
+income,Upper middle income,rural,Sanitation,2019,22.13789,212599471.56329,Sewer
+income,Upper middle income,urban,Sanitation,2019,71.39327,1308204130.6853,Sewer
+income,Upper middle income,total,Drinking water,2019,16.7862,468793624.57863,Non-piped improved
+income,Upper middle income,rural,Drinking water,2019,30.38687,291817831.98417,Non-piped improved
+income,Upper middle income,urban,Drinking water,2019,9.60966,176086481.7502,Non-piped improved
+income,Upper middle income,total,Drinking water,2019,79.88528,2230982651.14438,Piped improved
+income,Upper middle income,rural,Drinking water,2019,62.14871,596840057.58201,Piped improved
+income,Upper middle income,urban,Drinking water,2019,89.3184,1636662645.85601,Piped improved
+income,Upper middle income,total,Sanitation,2020,14.88355,417636185.0148,Improved latrine and other
+income,Upper middle income,rural,Sanitation,2020,32.73444,308664978.84164,Improved latrine and other
+income,Upper middle income,urban,Sanitation,2020,6.22009,115885853.72627,Improved latrine and other
+income,Upper middle income,total,Sanitation,2020,23.21467,651409761.56985,Septic tank
+income,Upper middle income,rural,Sanitation,2020,32.8304,309569855.70199,Septic tank
+income,Upper middle income,urban,Sanitation,2020,19.64419,365988790.48499,Septic tank
+income,Upper middle income,total,Sanitation,2020,56.28208,1579289811.65028,Sewer
+income,Upper middle income,rural,Sanitation,2020,22.96478,216543360.05066,Sewer
+income,Upper middle income,urban,Sanitation,2020,71.56177,1333259720.36586,Sewer
+income,Upper middle income,total,Drinking water,2020,16.36853,459305312.43966,Non-piped improved
+income,Upper middle income,rural,Drinking water,2020,29.85464,281510358.20218,Non-piped improved
+income,Upper middle income,urban,Drinking water,2020,9.49174,176839579.29127,Non-piped improved
+income,Upper middle income,total,Drinking water,2020,80.7563,2266042693.26598,Piped improved
+income,Upper middle income,rural,Drinking water,2020,63.76248,601239742.84461,Piped improved
+income,Upper middle income,urban,Drinking water,2020,89.49549,1667380978.78452,Piped improved
+income,Upper middle income,total,Sanitation,2021,14.6085,411267800.92783,Improved latrine and other
+income,Upper middle income,rural,Sanitation,2021,32.61412,301555321.22762,Improved latrine and other
+income,Upper middle income,urban,Sanitation,2021,6.16514,116561161.6108,Improved latrine and other
+income,Upper middle income,total,Sanitation,2021,23.79342,669847572.3067,Septic tank
+income,Upper middle income,rural,Sanitation,2021,34.08555,315160479.49219,Septic tank
+income,Upper middle income,urban,Sanitation,2021,20.07559,379558809.58436,Septic tank
+income,Upper middle income,total,Sanitation,2021,56.99559,1604576583.07544,Sewer
+income,Upper middle income,rural,Sanitation,2021,23.66416,218802619.82298,Sewer
+income,Upper middle income,urban,Sanitation,2021,71.70234,1355639104.8245,Sewer
+income,Upper middle income,total,Drinking water,2021,15.96514,449460893.43987,Non-piped improved
+income,Upper middle income,rural,Drinking water,2021,29.32351,271129861.92072,Non-piped improved
+income,Upper middle income,urban,Drinking water,2021,9.38095,177360721.80349,Non-piped improved
+income,Upper middle income,total,Drinking water,2021,81.58105,2296722268.14616,Piped improved
+income,Upper middle income,rural,Drinking water,2021,65.33988,604142999.10156,Piped improved
+income,Upper middle income,urban,Drinking water,2021,89.66082,1695170831.11902,Piped improved
